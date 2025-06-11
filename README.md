@@ -40,7 +40,7 @@ See the full notebook: [`notebook/Data_Wrangling_Project_Starter.ipynb`](noteboo
 
 A scatter plot suggests a **negative correlation** between air pollution and happiness scores:
 
-<img src="images/scatter_happiness_pm25.png" width="600"/>
+<img src="images/scatter_happiness_pm25.png" width="500"/>
 
 ---
 
@@ -48,4 +48,4 @@ A scatter plot suggests a **negative correlation** between air pollution and hap
 
 Confirms a **moderate negative correlation** between `PM2.5` levels and `Ladder_score`:
 
-<img src="images/heatmap_corr.png" width="400"/>
+<img src="images/heatmap_corr.png" width="500"/>
